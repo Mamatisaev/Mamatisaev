@@ -1,5 +1,3 @@
-### Hi there 👋, Ulanbek Mamatisaev
-#### Java back-end developer
 ![Java back-end developer](https://media.licdn.com/dms/image/D4E16AQH4VfPdituixw/profile-displaybackgroundimage-shrink_350_1400/0/1671163244622?e=1676505600&v=beta&t=NzMFxmEzcnpJrZ9C2e5TfQjY07zoLmZJomZW3hTszrE)
 
 Results-driven back-end developer passionate about Java and with 3 month of professional experience, including
